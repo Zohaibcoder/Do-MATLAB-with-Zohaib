@@ -34,4 +34,4 @@ The `.m` files in this folder contain the code demonstrated in the video.
 
 **Part of the Do MATLAB with Zohaib MATLAB course.**
 
-[← Back to Course Repository](../)
+[https://github.com/Zohaibcoder/Do-MATLAB-with-Zohaib](../)

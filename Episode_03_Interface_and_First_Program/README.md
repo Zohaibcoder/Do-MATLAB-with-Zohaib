@@ -20,7 +20,7 @@ As a first practical project, we build a simple **Area & Perimeter Calculator** 
 
 ## 🎥 Video
 
-[Watch Episode 03 — Interface + Your First Program](YOUR_EPISODE_03_LINK)
+[Watch Episode 03 — Interface + Your First Program](https://youtu.be/skt5SBQiruA)
 
 ## 🛠️ MATLAB Version
 

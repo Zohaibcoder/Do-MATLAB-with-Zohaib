@@ -34,8 +34,6 @@ This repository contains the MATLAB code used throughout the **Do MATLAB with Zo
 
 ### Episode 01 — Installing MATLAB
 
-📁 `Episode_01_Installing_MATLAB`
-
 The first step of the course: getting MATLAB installed and ready to use.
 
 🎥 **Watch Episode 01:** [YouTube Video Link]
@@ -43,8 +41,6 @@ The first step of the course: getting MATLAB installed and ready to use.
 ---
 
 ### Episode 02 — Configuring MATLAB
-
-📁 `Episode_02_Configuring_MATLAB`
 
 Configure your MATLAB environment and personalize the workspace for a better learning experience.
 

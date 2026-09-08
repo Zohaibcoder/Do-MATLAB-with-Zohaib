@@ -56,7 +56,7 @@ You'll work with the Command Window, Workspace, Editor, basic MATLAB commands, a
 
 📂 **Code:** [`Episode_03_Interface_and_First_Program`](./Episode_03_Interface_and_First_Program/)
 
-🎥 **Watch Episode 03:** [YouTube Video](YOUR_EPISODE_03_LINK)
+🎥 **Watch Episode 03:** [YouTube Video](https://youtu.be/skt5SBQiruA)
 
 ---
 

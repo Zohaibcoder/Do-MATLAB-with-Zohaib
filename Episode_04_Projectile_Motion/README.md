@@ -33,7 +33,7 @@ The project demonstrates how MATLAB can be used to turn mathematical equations i
 
 ## 🎥 Video
 
-[Watch Episode 04 — Projectile Motion](YOUR_EPISODE_04_LINK)
+[Watch Episode 04 — Projectile Motion](https://youtu.be/M2c4vhBhgRA)
 
 ## 🛠️ MATLAB Version
 

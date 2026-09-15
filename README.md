@@ -17,7 +17,7 @@ This repository contains the MATLAB code used throughout the **Do MATLAB with Zo
 | **01**  | Installing MATLAB                   | —                                                | ✅ Available    |
 | **02**  | Configuring MATLAB                  | —                                                | ✅ Available    |
 | **03**  | Interface + Your First Program      | `Episode_03_Interface_and_First_Program`         | ✅ Available    |
-| **04**  | Projectile Motion                   | `Episode_04_Projectile_Motion`                   | 🔜 Coming Soon |
+| **04**  | Projectile Motion                   | `Episode_04_Projectile_Motion`                   | ✅ Available  |
 | **05**  | Free Fall + Functions               | `Episode_05_Free_Fall_and_Functions`             | 🔜 Coming Soon |
 | **06**  | Grade Calculator (if/else)          | `Episode_06_Grade_Calculator`                    | 🔜 Coming Soon |
 | **07**  | Converters + Functions from Scratch | `Episode_07_Converters`                          | 🔜 Coming Soon |
@@ -57,6 +57,18 @@ You'll work with the Command Window, Workspace, Editor, basic MATLAB commands, a
 📂 **Code:** [`Episode_03_Interface_and_First_Program`](./Episode_03_Interface_and_First_Program/)
 
 🎥 **Watch Episode 03:** [YouTube Video](https://youtu.be/skt5SBQiruA)
+
+---
+
+### Episode 04 — Projectile Motion
+
+Learn how to simulate and visualize projectile motion using MATLAB.
+
+You'll work with vectors, element-wise operations, projectile motion equations, and MATLAB plotting to build a simple projectile trajectory simulation.
+
+📂 **Code:** [`Episode_04_Projectile_Motion`](./Episode_04_Projectile_Motion/)
+
+🎥 **Watch Episode 04:** [YouTube Video](https://youtu.be/M2c4vhBhgRA)
 
 ---
 

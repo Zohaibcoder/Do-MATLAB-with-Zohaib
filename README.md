@@ -18,7 +18,7 @@ This repository contains the MATLAB code used throughout the **Do MATLAB with Zo
 | **02**  | Configuring MATLAB                  | —                                                | ✅ Available    |
 | **03**  | Interface + Your First Program      | `Episode_03_Interface_and_First_Program`         | ✅ Available    |
 | **04**  | Projectile Motion                   | `Episode_04_Projectile_Motion`                   | ✅ Available  |
-| **05**  | Free Fall + Functions               | `Episode_05_Free_Fall_and_Functions`             | 🔜 Coming Soon |
+| **05**  | Free Fall + Functions               | `Episode_05_Free_Fall_and_Functions`             | ✅ Available  |
 | **06**  | Grade Calculator (if/else)          | `Episode_06_Grade_Calculator`                    | 🔜 Coming Soon |
 | **07**  | Converters + Functions from Scratch | `Episode_07_Converters`                          | 🔜 Coming Soon |
 | **08**  | For Loops + Population Growth       | `Episode_08_For_Loops_and_Population_Growth`     | 🔜 Coming Soon |
@@ -72,6 +72,16 @@ You'll work with vectors, element-wise operations, projectile motion equations, 
 
 ---
 
+### Episode 05 — Free Fall + Functions
+
+Learn how to simulate free fall using MATLAB and create your first custom MATLAB function.
+
+You'll work with mathematical equations, function inputs and outputs, and `subplot()` to simulate and visualize the motion of a falling object.
+
+📂 **Code:** [`Episode_05_Free_Fall_and_Functions`](./Episode_05_Free_Fall_and_Functions/)
+
+🎥 **Watch Episode 05:** [YouTube Video](https://youtu.be/YmOeOMESuZI)
+
 ## 🔒 Upcoming Episodes
 
 The upcoming episodes will be added to the repository **as they are released on YouTube**.
@@ -89,10 +99,10 @@ Do-MATLAB-with-Zohaib/
 │   └── MATLAB code
 │
 ├── Episode_04_Projectile_Motion/
-│   └── Coming soon
+│   └── MATLAB code
 │
 ├── Episode_05_Free_Fall_and_Functions/
-│   └── Coming soon
+│   └── MATLAB code
 │
 ├── Episode_06_Grade_Calculator/
 │   └── Coming soon

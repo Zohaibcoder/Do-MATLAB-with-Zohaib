@@ -14,11 +14,11 @@ This repository contains the MATLAB code used throughout the **Do MATLAB with Zo
 
 | Episode | Topic                               | GitHub Code                                      | Status         |
 | ------- | ----------------------------------- | ------------------------------------------------ | -------------- |
-| **01**  | Installing MATLAB                   | —                                                | ✅ Available    |
-| **02**  | Configuring MATLAB                  | —                                                | ✅ Available    |
-| **03**  | Interface + Your First Program      | `Episode_03_Interface_and_First_Program`         | ✅ Available    |
-| **04**  | Projectile Motion                   | `Episode_04_Projectile_Motion`                   | ✅ Available  |
-| **05**  | Free Fall + Functions               | `Episode_05_Free_Fall_and_Functions`             | ✅ Available  |
+| **01**  | Installing MATLAB                   | —                                                | ✅ Available   |
+| **02**  | Configuring MATLAB                  | —                                                | ✅ Available   |
+| **03**  | Interface + Your First Program      | `Episode_03_Interface_and_First_Program`         | ✅ Available   |
+| **04**  | Projectile Motion                   | `Episode_04_Projectile_Motion`                   | ✅ Available   |
+| **05**  | Free Fall + Functions               | `Episode_05_Free_Fall_and_Functions`             | ✅ Available   |
 | **06**  | Grade Calculator (if/else)          | `Episode_06_Grade_Calculator`                    | 🔜 Coming Soon |
 | **07**  | Converters + Functions from Scratch | `Episode_07_Converters`                          | 🔜 Coming Soon |
 | **08**  | For Loops + Population Growth       | `Episode_08_For_Loops_and_Population_Growth`     | 🔜 Coming Soon |
